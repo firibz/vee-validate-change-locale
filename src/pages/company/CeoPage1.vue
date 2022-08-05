@@ -11,7 +11,7 @@
             v-slot="{ errorMessage, value, handleChange }"
           >
             <q-input
-              label="q-input"
+              :label="t('email')"
               placeholder="type sth & press enter to see the bug"
               :model-value="value"
               @update:model-value="handleChange"
