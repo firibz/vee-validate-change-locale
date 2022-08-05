@@ -79,7 +79,9 @@
               clickable
               exact
             >
-              <q-item-section avatar> </q-item-section>
+              <q-item-section avatar>
+                <q-icon :name="child.icon" class="drawer-icon" />
+              </q-item-section>
               <q-item-section class="text-bold">
                 {{ child.title }}</q-item-section
               >
