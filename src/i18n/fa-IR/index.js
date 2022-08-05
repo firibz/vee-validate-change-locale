@@ -1,0 +1,33 @@
+// This is just an example,
+// so you can safely delete all default props below
+
+export default {
+  messages: {
+    failed: "خطایی رخ داده است",
+    success: "عملیات با موفقیت انجام شد",
+  },
+  username: "نام کاربری",
+  password: "موفقیت",
+  login: "ورود",
+  logout: "خروج",
+  search: "جستجو",
+  confirm: "تایید",
+  cancel: "لغو",
+  clearFilters: "حذف فیلترها",
+  filter: "فیلتر",
+  time: "زمان",
+  noResult: "موردی یافت نشد",
+  companyPersianName: "نام شرکت (فارسی)",
+  companyLatinName: "نام شرکت (انگلیسی)",
+  companyType: "نوع شرکت",
+  companyCode: "کد شرکت",
+  abbCode: "کد اختصاری",
+  registrationNumber: "شماره ثبت",
+  economicCode: "کد اقتصادی",
+  tel: "تلفن",
+  postalCode: "کد پستی",
+  fax: "نمابر",
+  email: "پست الکترونیک",
+  website: "وب سایت",
+  address: "آدرس",
+};

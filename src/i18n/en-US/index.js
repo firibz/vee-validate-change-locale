@@ -1,0 +1,33 @@
+// This is just an example,
+// so you can safely delete all default props below
+
+export default {
+  messages: {
+    failed: "Action failed",
+    success: "Action was successful",
+  },
+  username: "Username",
+  password: "Password",
+  login: "Login",
+  logout: "Logout",
+  search: "Search",
+  confirm: "Confirm",
+  cancel: "Cancel",
+  clearFilters: "Clear",
+  filter: "Filter",
+  time: "Time",
+  noResult: "No result.",
+  companyPersianName: "Company name (Persian)",
+  companyLatinName: "Company name (English)",
+  companyType: "Company type",
+  companyCode: "Company code",
+  abbCode: "Abbreviation code",
+  registrationNumber: "Registration number",
+  economicCode: "Economic code",
+  tel: "Tel",
+  postalCode: "Postal code",
+  fax: "Fax",
+  email: "E-mail",
+  website: "Website",
+  address: "Address",
+};
